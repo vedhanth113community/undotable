@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "id": "undo_table",
+  "version": "1.0.0",
+  "name": "Undo Table",
+  "description": "Reverses crafted items back into ingredients.",
+  "authors": ["Generated"],
+  "entrypoints": { "main": ["com.undo_table.UndoTableMod"] },
+  "depends": { "fabricloader": ">=0.14.29", "fabric-api": "*", "minecraft": ">=1.20.82" }
+}
